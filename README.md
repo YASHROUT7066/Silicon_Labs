@@ -224,19 +224,7 @@ akaza-landslide-alert/
 
 ---
 
-## 8. Licensing
 
-This project is licensed under the **zlib License**.  
-See [LICENSE.md](LICENSE.md) for the full license text.
-
-Third-party components and their licenses:
-- LoRa library by Sandeep Mistry — MIT License
-- MPU6050 library by Electronic Cats — MIT License
-- ThingSpeak library by MathWorks — MIT License
-- scikit-learn — BSD 3-Clause License
-- TensorFlow — Apache License 2.0
-
-For guidance on choosing a license, see [choosealicense.com](https://choosealicense.com/).
 
 ---
 
@@ -244,9 +232,9 @@ For guidance on choosing a license, see [choosealicense.com](https://choosealice
 
 ---
 
-## 9. Maintainers / Contacts
+## 8. Maintainers / Contacts
 
-| Name | Role | Contact |
+| Name | Role | Contact | 
 |---|---|---|---|
 | Basundhara Banik | Project Lead | 2307024@kiit.ac.in | 
 | Saharsh | Hardware & Firmware | 2307044@kiit.ac.in | 
