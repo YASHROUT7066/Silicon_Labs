@@ -248,11 +248,10 @@ For guidance on choosing a license, see [choosealicense.com](https://choosealice
 
 | Name | Role | Contact | GitHub Profile |
 |---|---|---|---|
-| Basundhara Banik | Project Lead | 2307024@kiit.ac.in | https://github.com/ |
-| Saharsh | Hardware & Firmware | 2307044@kiit.ac.in | https://github.com/ |
-| Yash Rout | ML & Cloud | yashrout2009@gmail.com | https://github.com/ |
-| Aashna Rai | App & Dashboard | 2305672@kiit.ac.in | https://github.com/ |
-
+| Basundhara Banik | Project Lead | 2307024@kiit.ac.in | 
+| Saharsh | Hardware & Firmware | 2307044@kiit.ac.in | 
+| Yash Rout | ML & Cloud | 2307066@kiit.ac.in | 
+| Aashna Rai | App & Dashboard | 2305672@kiit.ac.in | 
 
 ---
 
