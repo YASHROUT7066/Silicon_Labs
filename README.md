@@ -246,7 +246,7 @@ For guidance on choosing a license, see [choosealicense.com](https://choosealice
 
 ## 9. Maintainers / Contacts
 
-| Name | Role | Contact | GitHub Profile |
+| Name | Role | Contact |
 |---|---|---|---|
 | Basundhara Banik | Project Lead | 2307024@kiit.ac.in | 
 | Saharsh | Hardware & Firmware | 2307044@kiit.ac.in | 
