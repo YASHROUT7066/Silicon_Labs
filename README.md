@@ -240,15 +240,7 @@ For guidance on choosing a license, see [choosealicense.com](https://choosealice
 
 ---
 
-## Contributing
 
-Please follow the [CONTRIBUTING](.github/CONTRIBUTING.md) guideline before submitting pull requests or issues.
-
----
-
-## Code of Conduct
-
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) while participating in this project.
 
 ---
 
@@ -261,8 +253,6 @@ Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) while participating in t
 | Yash Rout | ML & Cloud | yashrout2009@gmail.com | https://github.com/ |
 | Aashna Rai | App & Dashboard | 2305672@kiit.ac.in | https://github.com/ |
 
-**Faculty Mentor:** Israj Ali, Associate Dean (T&P), School of Electronics Engineering, KIIT University — israjfet@kiit.ac.in  
-**Silicon Labs Program Contact:** Mrudula Reddy — MrudulaReddy.Cheedu@silabs.com
 
 ---
 
